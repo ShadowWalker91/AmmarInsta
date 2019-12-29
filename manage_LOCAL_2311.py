@@ -20,8 +20,4 @@ def main():
 if __name__ == '__main__':
     main()
 #My new edit to check git version control
-<<<<<<< HEAD
 (I am updating same line as verybad  branch )
-=======
-#Merge Confilict Line (Same line has an update by master now)
->>>>>>> verybad
